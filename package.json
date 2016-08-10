@@ -1,11 +1,11 @@
 {
   "name": "cleanup-old-projects",
   "version": "1.0.0",
-  "description": "Checks a dir of projects for node.js projects that haven't been touched in a year, and then trashes the node_modules.",
+  "description": "Checks a dir for node.js projects that haven't been touched in a year, and trashes the node_modules.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js",
+    "start": "node index.js"
   },
   "author": "Keith Hoffmann",
   "license": "ISC",
